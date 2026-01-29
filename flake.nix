@@ -80,8 +80,6 @@
                 echo '❄️  dev-shell '
                 set_color normal
               end
-              
-              alias nvim='${customNeovim}/bin/nvim'
             "
           '';
         };
