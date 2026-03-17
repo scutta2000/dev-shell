@@ -96,6 +96,8 @@
             stylua
             opencode
             fish
+            gemini-cli
+            tree
           ];
 
           shellHook = ''
